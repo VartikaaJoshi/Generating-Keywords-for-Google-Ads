@@ -1,5 +1,5 @@
 
-# Advanced Google Ads Keyword Generator for Bakery Campaigns
+# Google Ads Keyword Generator for Bakery Campaigns
 
 ## Overview
 This project provides an automated tool to generate targeted keywords for Google Ads campaigns specifically designed for bakeries. It streamlines the creation of ad groups and keywords, optimizing for search intents and including match types and negative keywords for improved ad targeting and efficiency.
