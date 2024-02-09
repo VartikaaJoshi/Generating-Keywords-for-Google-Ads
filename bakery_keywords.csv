@@ -1,0 +1,265 @@
+Keyword,Match Type,Campaign,Ad Group
+buy birthday cakes,Broad,BakeryCampaign,Cakes
+"""buy birthday cakes""",Phrase,BakeryCampaign,Cakes
+[buy birthday cakes],Exact,BakeryCampaign,Cakes
+order birthday cakes,Broad,BakeryCampaign,Cakes
+"""order birthday cakes""",Phrase,BakeryCampaign,Cakes
+[order birthday cakes],Exact,BakeryCampaign,Cakes
+delivery birthday cakes,Broad,BakeryCampaign,Cakes
+"""delivery birthday cakes""",Phrase,BakeryCampaign,Cakes
+[delivery birthday cakes],Exact,BakeryCampaign,Cakes
+near me birthday cakes,Broad,BakeryCampaign,Cakes
+"""near me birthday cakes""",Phrase,BakeryCampaign,Cakes
+[near me birthday cakes],Exact,BakeryCampaign,Cakes
+online birthday cakes,Broad,BakeryCampaign,Cakes
+"""online birthday cakes""",Phrase,BakeryCampaign,Cakes
+[online birthday cakes],Exact,BakeryCampaign,Cakes
+best birthday cakes,Broad,BakeryCampaign,Cakes
+"""best birthday cakes""",Phrase,BakeryCampaign,Cakes
+[best birthday cakes],Exact,BakeryCampaign,Cakes
+reviews birthday cakes,Broad,BakeryCampaign,Cakes
+"""reviews birthday cakes""",Phrase,BakeryCampaign,Cakes
+[reviews birthday cakes],Exact,BakeryCampaign,Cakes
+buy wedding cakes,Broad,BakeryCampaign,Cakes
+"""buy wedding cakes""",Phrase,BakeryCampaign,Cakes
+[buy wedding cakes],Exact,BakeryCampaign,Cakes
+order wedding cakes,Broad,BakeryCampaign,Cakes
+"""order wedding cakes""",Phrase,BakeryCampaign,Cakes
+[order wedding cakes],Exact,BakeryCampaign,Cakes
+delivery wedding cakes,Broad,BakeryCampaign,Cakes
+"""delivery wedding cakes""",Phrase,BakeryCampaign,Cakes
+[delivery wedding cakes],Exact,BakeryCampaign,Cakes
+near me wedding cakes,Broad,BakeryCampaign,Cakes
+"""near me wedding cakes""",Phrase,BakeryCampaign,Cakes
+[near me wedding cakes],Exact,BakeryCampaign,Cakes
+online wedding cakes,Broad,BakeryCampaign,Cakes
+"""online wedding cakes""",Phrase,BakeryCampaign,Cakes
+[online wedding cakes],Exact,BakeryCampaign,Cakes
+best wedding cakes,Broad,BakeryCampaign,Cakes
+"""best wedding cakes""",Phrase,BakeryCampaign,Cakes
+[best wedding cakes],Exact,BakeryCampaign,Cakes
+reviews wedding cakes,Broad,BakeryCampaign,Cakes
+"""reviews wedding cakes""",Phrase,BakeryCampaign,Cakes
+[reviews wedding cakes],Exact,BakeryCampaign,Cakes
+buy custom cakes,Broad,BakeryCampaign,Cakes
+"""buy custom cakes""",Phrase,BakeryCampaign,Cakes
+[buy custom cakes],Exact,BakeryCampaign,Cakes
+order custom cakes,Broad,BakeryCampaign,Cakes
+"""order custom cakes""",Phrase,BakeryCampaign,Cakes
+[order custom cakes],Exact,BakeryCampaign,Cakes
+delivery custom cakes,Broad,BakeryCampaign,Cakes
+"""delivery custom cakes""",Phrase,BakeryCampaign,Cakes
+[delivery custom cakes],Exact,BakeryCampaign,Cakes
+near me custom cakes,Broad,BakeryCampaign,Cakes
+"""near me custom cakes""",Phrase,BakeryCampaign,Cakes
+[near me custom cakes],Exact,BakeryCampaign,Cakes
+online custom cakes,Broad,BakeryCampaign,Cakes
+"""online custom cakes""",Phrase,BakeryCampaign,Cakes
+[online custom cakes],Exact,BakeryCampaign,Cakes
+best custom cakes,Broad,BakeryCampaign,Cakes
+"""best custom cakes""",Phrase,BakeryCampaign,Cakes
+[best custom cakes],Exact,BakeryCampaign,Cakes
+reviews custom cakes,Broad,BakeryCampaign,Cakes
+"""reviews custom cakes""",Phrase,BakeryCampaign,Cakes
+[reviews custom cakes],Exact,BakeryCampaign,Cakes
+buy gluten-free bread,Broad,BakeryCampaign,Breads
+"""buy gluten-free bread""",Phrase,BakeryCampaign,Breads
+[buy gluten-free bread],Exact,BakeryCampaign,Breads
+order gluten-free bread,Broad,BakeryCampaign,Breads
+"""order gluten-free bread""",Phrase,BakeryCampaign,Breads
+[order gluten-free bread],Exact,BakeryCampaign,Breads
+delivery gluten-free bread,Broad,BakeryCampaign,Breads
+"""delivery gluten-free bread""",Phrase,BakeryCampaign,Breads
+[delivery gluten-free bread],Exact,BakeryCampaign,Breads
+near me gluten-free bread,Broad,BakeryCampaign,Breads
+"""near me gluten-free bread""",Phrase,BakeryCampaign,Breads
+[near me gluten-free bread],Exact,BakeryCampaign,Breads
+online gluten-free bread,Broad,BakeryCampaign,Breads
+"""online gluten-free bread""",Phrase,BakeryCampaign,Breads
+[online gluten-free bread],Exact,BakeryCampaign,Breads
+best gluten-free bread,Broad,BakeryCampaign,Breads
+"""best gluten-free bread""",Phrase,BakeryCampaign,Breads
+[best gluten-free bread],Exact,BakeryCampaign,Breads
+reviews gluten-free bread,Broad,BakeryCampaign,Breads
+"""reviews gluten-free bread""",Phrase,BakeryCampaign,Breads
+[reviews gluten-free bread],Exact,BakeryCampaign,Breads
+buy artisan bread,Broad,BakeryCampaign,Breads
+"""buy artisan bread""",Phrase,BakeryCampaign,Breads
+[buy artisan bread],Exact,BakeryCampaign,Breads
+order artisan bread,Broad,BakeryCampaign,Breads
+"""order artisan bread""",Phrase,BakeryCampaign,Breads
+[order artisan bread],Exact,BakeryCampaign,Breads
+delivery artisan bread,Broad,BakeryCampaign,Breads
+"""delivery artisan bread""",Phrase,BakeryCampaign,Breads
+[delivery artisan bread],Exact,BakeryCampaign,Breads
+near me artisan bread,Broad,BakeryCampaign,Breads
+"""near me artisan bread""",Phrase,BakeryCampaign,Breads
+[near me artisan bread],Exact,BakeryCampaign,Breads
+online artisan bread,Broad,BakeryCampaign,Breads
+"""online artisan bread""",Phrase,BakeryCampaign,Breads
+[online artisan bread],Exact,BakeryCampaign,Breads
+best artisan bread,Broad,BakeryCampaign,Breads
+"""best artisan bread""",Phrase,BakeryCampaign,Breads
+[best artisan bread],Exact,BakeryCampaign,Breads
+reviews artisan bread,Broad,BakeryCampaign,Breads
+"""reviews artisan bread""",Phrase,BakeryCampaign,Breads
+[reviews artisan bread],Exact,BakeryCampaign,Breads
+buy whole wheat bread,Broad,BakeryCampaign,Breads
+"""buy whole wheat bread""",Phrase,BakeryCampaign,Breads
+[buy whole wheat bread],Exact,BakeryCampaign,Breads
+order whole wheat bread,Broad,BakeryCampaign,Breads
+"""order whole wheat bread""",Phrase,BakeryCampaign,Breads
+[order whole wheat bread],Exact,BakeryCampaign,Breads
+delivery whole wheat bread,Broad,BakeryCampaign,Breads
+"""delivery whole wheat bread""",Phrase,BakeryCampaign,Breads
+[delivery whole wheat bread],Exact,BakeryCampaign,Breads
+near me whole wheat bread,Broad,BakeryCampaign,Breads
+"""near me whole wheat bread""",Phrase,BakeryCampaign,Breads
+[near me whole wheat bread],Exact,BakeryCampaign,Breads
+online whole wheat bread,Broad,BakeryCampaign,Breads
+"""online whole wheat bread""",Phrase,BakeryCampaign,Breads
+[online whole wheat bread],Exact,BakeryCampaign,Breads
+best whole wheat bread,Broad,BakeryCampaign,Breads
+"""best whole wheat bread""",Phrase,BakeryCampaign,Breads
+[best whole wheat bread],Exact,BakeryCampaign,Breads
+reviews whole wheat bread,Broad,BakeryCampaign,Breads
+"""reviews whole wheat bread""",Phrase,BakeryCampaign,Breads
+[reviews whole wheat bread],Exact,BakeryCampaign,Breads
+buy croissants,Broad,BakeryCampaign,Pastries
+"""buy croissants""",Phrase,BakeryCampaign,Pastries
+[buy croissants],Exact,BakeryCampaign,Pastries
+order croissants,Broad,BakeryCampaign,Pastries
+"""order croissants""",Phrase,BakeryCampaign,Pastries
+[order croissants],Exact,BakeryCampaign,Pastries
+delivery croissants,Broad,BakeryCampaign,Pastries
+"""delivery croissants""",Phrase,BakeryCampaign,Pastries
+[delivery croissants],Exact,BakeryCampaign,Pastries
+near me croissants,Broad,BakeryCampaign,Pastries
+"""near me croissants""",Phrase,BakeryCampaign,Pastries
+[near me croissants],Exact,BakeryCampaign,Pastries
+online croissants,Broad,BakeryCampaign,Pastries
+"""online croissants""",Phrase,BakeryCampaign,Pastries
+[online croissants],Exact,BakeryCampaign,Pastries
+best croissants,Broad,BakeryCampaign,Pastries
+"""best croissants""",Phrase,BakeryCampaign,Pastries
+[best croissants],Exact,BakeryCampaign,Pastries
+reviews croissants,Broad,BakeryCampaign,Pastries
+"""reviews croissants""",Phrase,BakeryCampaign,Pastries
+[reviews croissants],Exact,BakeryCampaign,Pastries
+buy muffins,Broad,BakeryCampaign,Pastries
+"""buy muffins""",Phrase,BakeryCampaign,Pastries
+[buy muffins],Exact,BakeryCampaign,Pastries
+order muffins,Broad,BakeryCampaign,Pastries
+"""order muffins""",Phrase,BakeryCampaign,Pastries
+[order muffins],Exact,BakeryCampaign,Pastries
+delivery muffins,Broad,BakeryCampaign,Pastries
+"""delivery muffins""",Phrase,BakeryCampaign,Pastries
+[delivery muffins],Exact,BakeryCampaign,Pastries
+near me muffins,Broad,BakeryCampaign,Pastries
+"""near me muffins""",Phrase,BakeryCampaign,Pastries
+[near me muffins],Exact,BakeryCampaign,Pastries
+online muffins,Broad,BakeryCampaign,Pastries
+"""online muffins""",Phrase,BakeryCampaign,Pastries
+[online muffins],Exact,BakeryCampaign,Pastries
+best muffins,Broad,BakeryCampaign,Pastries
+"""best muffins""",Phrase,BakeryCampaign,Pastries
+[best muffins],Exact,BakeryCampaign,Pastries
+reviews muffins,Broad,BakeryCampaign,Pastries
+"""reviews muffins""",Phrase,BakeryCampaign,Pastries
+[reviews muffins],Exact,BakeryCampaign,Pastries
+buy scones,Broad,BakeryCampaign,Pastries
+"""buy scones""",Phrase,BakeryCampaign,Pastries
+[buy scones],Exact,BakeryCampaign,Pastries
+order scones,Broad,BakeryCampaign,Pastries
+"""order scones""",Phrase,BakeryCampaign,Pastries
+[order scones],Exact,BakeryCampaign,Pastries
+delivery scones,Broad,BakeryCampaign,Pastries
+"""delivery scones""",Phrase,BakeryCampaign,Pastries
+[delivery scones],Exact,BakeryCampaign,Pastries
+near me scones,Broad,BakeryCampaign,Pastries
+"""near me scones""",Phrase,BakeryCampaign,Pastries
+[near me scones],Exact,BakeryCampaign,Pastries
+online scones,Broad,BakeryCampaign,Pastries
+"""online scones""",Phrase,BakeryCampaign,Pastries
+[online scones],Exact,BakeryCampaign,Pastries
+best scones,Broad,BakeryCampaign,Pastries
+"""best scones""",Phrase,BakeryCampaign,Pastries
+[best scones],Exact,BakeryCampaign,Pastries
+reviews scones,Broad,BakeryCampaign,Pastries
+"""reviews scones""",Phrase,BakeryCampaign,Pastries
+[reviews scones],Exact,BakeryCampaign,Pastries
+buy danishes,Broad,BakeryCampaign,Pastries
+"""buy danishes""",Phrase,BakeryCampaign,Pastries
+[buy danishes],Exact,BakeryCampaign,Pastries
+order danishes,Broad,BakeryCampaign,Pastries
+"""order danishes""",Phrase,BakeryCampaign,Pastries
+[order danishes],Exact,BakeryCampaign,Pastries
+delivery danishes,Broad,BakeryCampaign,Pastries
+"""delivery danishes""",Phrase,BakeryCampaign,Pastries
+[delivery danishes],Exact,BakeryCampaign,Pastries
+near me danishes,Broad,BakeryCampaign,Pastries
+"""near me danishes""",Phrase,BakeryCampaign,Pastries
+[near me danishes],Exact,BakeryCampaign,Pastries
+online danishes,Broad,BakeryCampaign,Pastries
+"""online danishes""",Phrase,BakeryCampaign,Pastries
+[online danishes],Exact,BakeryCampaign,Pastries
+best danishes,Broad,BakeryCampaign,Pastries
+"""best danishes""",Phrase,BakeryCampaign,Pastries
+[best danishes],Exact,BakeryCampaign,Pastries
+reviews danishes,Broad,BakeryCampaign,Pastries
+"""reviews danishes""",Phrase,BakeryCampaign,Pastries
+[reviews danishes],Exact,BakeryCampaign,Pastries
+buy discount,Broad,BakeryCampaign,Special Offers
+"""buy discount""",Phrase,BakeryCampaign,Special Offers
+[buy discount],Exact,BakeryCampaign,Special Offers
+order discount,Broad,BakeryCampaign,Special Offers
+"""order discount""",Phrase,BakeryCampaign,Special Offers
+[order discount],Exact,BakeryCampaign,Special Offers
+delivery discount,Broad,BakeryCampaign,Special Offers
+"""delivery discount""",Phrase,BakeryCampaign,Special Offers
+[delivery discount],Exact,BakeryCampaign,Special Offers
+near me discount,Broad,BakeryCampaign,Special Offers
+"""near me discount""",Phrase,BakeryCampaign,Special Offers
+[near me discount],Exact,BakeryCampaign,Special Offers
+online discount,Broad,BakeryCampaign,Special Offers
+"""online discount""",Phrase,BakeryCampaign,Special Offers
+[online discount],Exact,BakeryCampaign,Special Offers
+best discount,Broad,BakeryCampaign,Special Offers
+"""best discount""",Phrase,BakeryCampaign,Special Offers
+[best discount],Exact,BakeryCampaign,Special Offers
+reviews discount,Broad,BakeryCampaign,Special Offers
+"""reviews discount""",Phrase,BakeryCampaign,Special Offers
+[reviews discount],Exact,BakeryCampaign,Special Offers
+buy special offer,Broad,BakeryCampaign,Special Offers
+"""buy special offer""",Phrase,BakeryCampaign,Special Offers
+[buy special offer],Exact,BakeryCampaign,Special Offers
+order special offer,Broad,BakeryCampaign,Special Offers
+"""order special offer""",Phrase,BakeryCampaign,Special Offers
+[order special offer],Exact,BakeryCampaign,Special Offers
+delivery special offer,Broad,BakeryCampaign,Special Offers
+"""delivery special offer""",Phrase,BakeryCampaign,Special Offers
+[delivery special offer],Exact,BakeryCampaign,Special Offers
+near me special offer,Broad,BakeryCampaign,Special Offers
+"""near me special offer""",Phrase,BakeryCampaign,Special Offers
+[near me special offer],Exact,BakeryCampaign,Special Offers
+online special offer,Broad,BakeryCampaign,Special Offers
+"""online special offer""",Phrase,BakeryCampaign,Special Offers
+[online special offer],Exact,BakeryCampaign,Special Offers
+best special offer,Broad,BakeryCampaign,Special Offers
+"""best special offer""",Phrase,BakeryCampaign,Special Offers
+[best special offer],Exact,BakeryCampaign,Special Offers
+reviews special offer,Broad,BakeryCampaign,Special Offers
+"""reviews special offer""",Phrase,BakeryCampaign,Special Offers
+[reviews special offer],Exact,BakeryCampaign,Special Offers
+free,Negative,BakeryCampaign,Cakes
+how to make,Negative,BakeryCampaign,Cakes
+recipe,Negative,BakeryCampaign,Cakes
+free,Negative,BakeryCampaign,Breads
+how to make,Negative,BakeryCampaign,Breads
+recipe,Negative,BakeryCampaign,Breads
+free,Negative,BakeryCampaign,Pastries
+how to make,Negative,BakeryCampaign,Pastries
+recipe,Negative,BakeryCampaign,Pastries
+free,Negative,BakeryCampaign,Special Offers
+how to make,Negative,BakeryCampaign,Special Offers
+recipe,Negative,BakeryCampaign,Special Offers
